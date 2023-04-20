@@ -1,4 +1,4 @@
 ### Installation
 ```bash
-mv tmux.conf ~/.tmux.conf
+mv .tmux.conf ~/.tmux.conf
 ```
